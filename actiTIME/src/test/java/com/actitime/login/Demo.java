@@ -9,5 +9,9 @@ public class Demo {
 	public void login()
 	{
 		Reporter.log("script is running successfully",true);
+		Reporter.log("script1 is running successfully",true);
+		Reporter.log("script2 is running successfully",true);
+
+		
 	}
 }
